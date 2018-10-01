@@ -1,2 +1,3 @@
 # registration-with-login-system
-with Codeigniter Framework
+
+This is the code for User Registration and Login System for a site with Codeigniter Framework.
